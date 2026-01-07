@@ -1,0 +1,10 @@
+Partición,Nodos,Aristas,Altura,Prof_Promedio,Layout
+df_original,25,24,2,1.60,Ordenado (fallback)
+B2C,22,21,2,1.59,Ordenado (fallback)
+W2C,22,21,2,1.59,Ordenado (fallback)
+B4C,1,0,0,0.00,Ordenado (fallback)
+W4C,1,0,0,0.00,Ordenado (fallback)
+B8C,1,0,0,0.00,Ordenado (fallback)
+W8C,1,0,0,0.00,Ordenado (fallback)
+B16C,1,0,0,0.00,Ordenado (fallback)
+W16C,1,0,0,0.00,Ordenado (fallback)
